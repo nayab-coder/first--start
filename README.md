@@ -1,4 +1,4 @@
-# simpe railway reservation system project
+# simple railway reservation system project
 my first github repositry
 objectives:
  To implement a real-time reservation system
